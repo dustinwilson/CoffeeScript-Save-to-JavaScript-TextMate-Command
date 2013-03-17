@@ -1,6 +1,6 @@
 # CoffeeScript Save to JavaScript TextMate Command #
 
-This is a TextMate menu command that allows for autosaving of CoffeeScript files to JavaScript in the same folder the open CoffeeScript file is in. Requires the default CoffeeScript bundle installed from the Bundles preferences.
+This is a TextMate menu command that allows for autosaving of CoffeeScript files to JavaScript in the same folder the open CoffeeScript file is in when using `⌘S`. Requires the default CoffeeScript bundle installed from the Bundles preferences.
 
 ## Installation ##
 
